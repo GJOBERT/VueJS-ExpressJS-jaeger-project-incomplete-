@@ -1,5 +1,5 @@
 <h1>Project JAEGER</h1>
-<h2>Projet de fin de formation Coding Academy</h2>
+<h2>Projet de Coding Academy</h2>
 
 <h3>Live demo</h3>
 <a href="http://jag-biblio.fr">jag-biblio.fr</a>
