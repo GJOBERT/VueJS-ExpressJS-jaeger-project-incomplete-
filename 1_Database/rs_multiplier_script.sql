@@ -1,0 +1,1 @@
+INSERT INTO jag.books (title, summary, author, year, isbn, cote, image, borrowed_by, date_begin, date_end, category_id,is_borrowed ) SELECT title, summary, author, year, isbn, cote, image, borrowed_by, date_begin, date_end, category_id,is_borrowed FROM jag.books
